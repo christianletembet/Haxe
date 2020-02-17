@@ -1,3 +1,5 @@
+// On crée le modele type de l'objet user.
+
 package model;
 
 /**

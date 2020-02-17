@@ -1,3 +1,5 @@
+--Ce fichier sera utilisé par Docker pour générer les tables dans la base de données.
+
 create table user
 (
 	login varchar(20) not null
